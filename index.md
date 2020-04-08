@@ -1,5 +1,5 @@
-<h1><center>Lianqi Wang</center></h1>
-
-<a href="maos">Click here to goto MAOS page</a>
 # MAOS Documentation
 [MAOS] (http://lianqiw.github.com/maos)
+
+# AO Simulation Results
+## PSFs
