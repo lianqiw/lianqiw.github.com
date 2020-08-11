@@ -27,7 +27,7 @@ twitter_username: lianqiw
 github_username:  lianqiw
 
 # Build settings
-theme: jekyll-theme-minimal #this need to be in Gemfile as well
+theme: minima #this need to be in Gemfile as well #only minima works in github?
 plugins:
   - jekyll-feed
 
