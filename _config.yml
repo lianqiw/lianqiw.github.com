@@ -28,7 +28,7 @@ github_username:  lianqiw
 
 # Build settings
 #theme: minima
-theme: swiss
+theme: modernist
 #theme: jekyll-theme-modernist
 
 plugins:
