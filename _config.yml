@@ -1,3 +1,9 @@
 theme: jekyll-theme-modernist
 title: Welcome to Lianqi's Page
-description: For the MAOS simulator and AO simulation results
+description: For MAOS and sandom computing tips
+gems:
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
