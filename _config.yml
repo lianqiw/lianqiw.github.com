@@ -27,7 +27,7 @@ twitter_username: lianqiw
 github_username:  lianqiw
 
 # Build settings
-theme: jekyll-theme-modernist #this need to be in Gemfile as well
+theme: jekyll-theme-minimal #this need to be in Gemfile as well
 plugins:
   - jekyll-feed
 
