@@ -27,7 +27,7 @@ twitter_username: lianqiw
 github_username:  lianqiw
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
