@@ -28,8 +28,8 @@ github_username:  lianqiw
 
 # Build settings
 #this need to be in Gemfile as well #only minima works in github?
-#theme: minima
-theme: jekyll-theme-minimal
+theme: minima
+#theme: minimal
 plugins:
   - jekyll-feed
 
