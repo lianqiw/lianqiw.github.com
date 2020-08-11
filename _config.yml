@@ -1,6 +1,7 @@
 theme: jekyll-theme-modernist
 title: Welcome to Lianqi's Page
 description: For MAOS and sandom computing tips
+permalink: /:year/:month/:title/
 gems:
   - jekyll-feed
   - jekyll-mentions
