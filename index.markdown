@@ -5,9 +5,9 @@
 layout: home
 ---
 
-#Random computing tips
+# Random computing tips
 
-#MAOS
+# MAOS
 
 [Documentation](https://lianqiw.github.com/maos)
 
