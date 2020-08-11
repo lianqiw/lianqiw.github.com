@@ -30,7 +30,7 @@ github_username:  lianqiw
 #this need to be in Gemfile as well #only minima works in github?
 theme: minima
 #theme: jekyll-theme-modernist
-#theme: minimal
+
 plugins:
   - jekyll-feed
 
