@@ -19,18 +19,27 @@
 # in the templates via {{ site.myvariable }}.
 
 title: WLQ's page
-email: lianqiw <at> gmail <dot> com
+lang: en
+
 description: For MAOS and random computing tips
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lianqiw
 github_username:  lianqiw
 
+addons:
+  - github
+  - plugins
+  - analytics
+  
 # Build settings
 #theme: minima
-remote-theme: rundocs/jekyll-rtd-theme
+remote_theme: rundocs/jekyll-rtd-theme
 plugins:
   - jekyll-feed
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
 
 # Exclude from processing.
 # The following items will not be processed, by default.
