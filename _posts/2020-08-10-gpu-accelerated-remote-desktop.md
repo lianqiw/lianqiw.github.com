@@ -1,8 +1,6 @@
 ---
 layout: post
 title: GPU Accelerated Remote Desktop on Linux Server
-date: 2020-08-10-20:50:00 -0700
-categories: computing
 
 ---
 
