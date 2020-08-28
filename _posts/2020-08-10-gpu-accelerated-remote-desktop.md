@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GPU Accelerated Remote Desktop on Linux Server
+title: Remote Desktop
 ---
 
 Remote work has become the norm during the Covid-19 era. For us relying on high performance Linux servers, the need to connect to those servers remotely from home has become inevitable. There are multiple well established techniques that are fairly performant, such as
