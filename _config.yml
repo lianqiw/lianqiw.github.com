@@ -9,7 +9,7 @@ permalink:        pretty
 title:            MAOS
 tagline:          'MAOS Simulation notes'
 description:      'MAOS Notes'
-#url:              http://lianqiw.github.com
+url:              https://lianqiw.github.io
 baseurl:          /
 
 author:
