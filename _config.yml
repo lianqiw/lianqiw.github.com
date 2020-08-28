@@ -15,7 +15,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          v2.2-r2
+version:          2.2-r2
 
 github:
   repo:           https://github.com/lianqiw/maos
