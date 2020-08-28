@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Doxygen Documentation
+title: MAOS
 ---
 
 Please visit [MAOS](https://lianqiw.github.com/maos).
