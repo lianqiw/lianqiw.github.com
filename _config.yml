@@ -10,7 +10,7 @@ title:            MAOS
 tagline:          'MAOS Simulation notes'
 description:      'MAOS Notes'
 url:              https://lianqiw.github.io
-baseurl:          /
+baseurl:          https://lianqiw.github.io/
 
 author:
   name:           'Lianqi Wang'
