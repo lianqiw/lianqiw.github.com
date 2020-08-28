@@ -9,12 +9,12 @@ permalink:        pretty
 title:            MAOS
 tagline:          'MAOS Simulation notes'
 description:      'MAOS Notes'
-url:              https://lianqiw.github.com
+#url:              http://lianqiw.github.com
 baseurl:          /
 
 author:
   name:           'Lianqi Wang'
-  url:            https://lianqiw.github.com
+  url:            http://lianqiw.github.com
 
 paginate:         5
 
